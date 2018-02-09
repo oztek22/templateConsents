@@ -1,0 +1,55 @@
+{
+  "templates": [
+    {
+      "dataControllers": [
+        "Usercentrics GmbH"
+      ],
+      "dataProcessors": [
+        "criteo"
+      ],
+      "dataPurposes": [
+        "retargeting"
+      ],
+      "dataScopes": [
+        "usercentrics.com"
+      ],
+      "dataAttributes": [
+        "views, clicks"
+      ]
+    },
+    {
+      "dataControllers": [
+        "usercentrics GmbH"
+      ],
+      "dataProcessors": [
+        "google analytics"
+      ],
+      "dataPurposes": [
+        "understand users interactions with site"
+      ],
+      "dataScopes": [
+        "usercentrics.com"
+      ],
+      "dataAttributes": [
+        "views"
+      ]
+    },
+    {
+      "dataControllers": [
+        "usercentrics GmbH"
+      ],
+      "dataProcessors": [
+        "hello bar"
+      ],
+      "dataPurposes": [
+        "convert more visitors into customers"
+      ],
+      "dataScopes": [
+        "usercentrics.com"
+      ],
+      "dataAttributes": [
+        "user agent, custom hello bar id, pageviews "
+      ]
+    }
+  ]
+}
